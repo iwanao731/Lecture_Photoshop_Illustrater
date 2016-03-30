@@ -2,7 +2,7 @@
 
 前回のおさらいから始め，後半は実践としてポスター制作を行います．
 
-## Poster制作において参考になりそうなサイト
+## 今までに参考にした/ したい資料大公開
 
 - 研究ポスター系
 
@@ -26,10 +26,13 @@
 		- https://www.ana.co.jp/travelandlife/infographics/
 		- 次に何か作るときに参考にしたいもの
 
-- プレゼンスライド系
+- プレゼン資料系
 	- スマートライフの未来(電通)
 		- http://www.dentsu.co.jp/business/pdf-cms/smartlife.pdf
 		- 実際に未踏の資料を作るときに参考にしたもの
+	- TRANSFORM (MIT MEDIA LAB)
+		- http://tangible.media.mit.edu/static/pdfs/TRANSFORM_Brochure_27.pdf
+		- アプリケーションコンテストに出した時に参考にしたもの
 
 
 以下は，第一回基礎編で触れた内容
