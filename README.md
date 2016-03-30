@@ -2,8 +2,29 @@
 
 前回のおさらいから始め，後半は実践としてポスター制作を行います．
 
---- 
-以下は，前回触れた内容
+## Poster制作において参考になりそうなサイト
+
+- 研究ポスター系
+
+	- 伝わるデザイン
+		- http://tsutawarudesign.web.fc2.com/yomiyasuku3.html
+
+	- 具体例
+		- Embedded Thin Shells for Wrinkle Simulation
+		- http://www.cs.mcgill.ca/~kry/pubs/ets/
+
+		- Fine water with coarse grids
+		- http://www.cs.ubc.ca/~essex/dgwater/
+
+- 研究室ポスター系
+	- 強相関電子物性研究室
+		- http://sonicbangs.sci.hokudai.ac.jp/yanagisawa/images/lab_introv2_jp.pdf
+
+- インフォグラフィックス系
+	- https://www.ana.co.jp/travelandlife/infographics/
+
+ 
+以下は，第一回基礎編で触れた内容
 
 # Illustrator
 
