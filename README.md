@@ -11,17 +11,20 @@
 
 	- 具体例
 		- Embedded Thin Shells for Wrinkle Simulation
-		- http://www.cs.mcgill.ca/~kry/pubs/ets/
-
+			- http://www.cs.mcgill.ca/~kry/pubs/ets/
+			- 実際にVCのポスター作るときに参考にしたもの
 		- Fine water with coarse grids
-		- http://www.cs.ubc.ca/~essex/dgwater/
+			- http://www.cs.ubc.ca/~essex/dgwater/
 
 - 研究室ポスター系
 	- 強相関電子物性研究室
 		- http://sonicbangs.sci.hokudai.ac.jp/yanagisawa/images/lab_introv2_jp.pdf
+		- 森島研のポスターを作るときに参考にしたもの
 
 - インフォグラフィックス系
-	- https://www.ana.co.jp/travelandlife/infographics/
+	- ANA Travel Life
+		- https://www.ana.co.jp/travelandlife/infographics/
+		- 次に何か作るときに参考にしたいもの
 
  
 以下は，第一回基礎編で触れた内容
