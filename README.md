@@ -26,7 +26,12 @@
 		- https://www.ana.co.jp/travelandlife/infographics/
 		- 次に何か作るときに参考にしたいもの
 
- 
+- プレゼンスライド系
+	- スマートライフの未来(電通)
+		- http://www.dentsu.co.jp/business/pdf-cms/smartlife.pdf
+		- 実際に未踏の資料を作るときに参考にしたもの
+
+
 以下は，第一回基礎編で触れた内容
 
 # Illustrator
